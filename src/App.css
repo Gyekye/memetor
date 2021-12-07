@@ -1,0 +1,53 @@
+.App-header {
+  background: linear-gradient(90.41deg, #711F8D 1.14%, #A818DA 100%);
+  padding: 1em;
+  color: #fff;
+  margin: 0 auto;
+  width: 40%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.Header-text{
+    display: inline;
+}
+
+.Main{
+  margin: 0 auto;
+  width: 40%;
+  margin-top: .3em;
+  height: auto;
+}
+
+.Form{
+  display: flex;
+  justify-content: space-between;
+  padding: .65em 0;
+  flex-wrap: wrap;
+  margin: 1.5em 0;
+}
+
+.Input-form{
+  width: 48%;
+  padding: 15px 18px;
+  border-radius: 8px;
+  border: 1px solid #672280;
+  text-indent: 5px;
+}
+
+.Submit-btn{
+  width: 100%;
+  margin: 1.5em 0;
+  padding: 18px 0;
+  border-radius: 8px;
+  background: linear-gradient(90.41deg, #711F8D 1.14%, #A818DA 100%);
+  border: none;
+  color:white;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+img{
+  max-width: 100%;
+}
